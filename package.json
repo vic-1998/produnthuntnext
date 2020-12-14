@@ -1,0 +1,26 @@
+{
+	"name": "produnthuntnext",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"export": "next export"
+	},
+	"dependencies": {
+		"@babel/core": "^7.12.10",
+		"@emotion/babel-preset-css-prop": "^10.0.27",
+		"@emotion/core": "^10.0.27",
+		"@emotion/react": "^11.1.2",
+		"@emotion/styled": "^10.0.27",
+		"babel-plugin-emotion": "^10.0.27",
+		"date-fns": "^2.16.1",
+		"firebase": "^7.24.0",
+		"firebase-admin": "^9.4.2",
+		"next": "^10.0.3",
+		"react": "16.12.0",
+		"react-dom": "16.12.0",
+		"react-firebase-file-uploader": "^2.4.4"
+	}
+}
